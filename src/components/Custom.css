@@ -1,0 +1,15 @@
+﻿html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+
+.page {
+    position: absolute;
+    right: 20px;
+}
